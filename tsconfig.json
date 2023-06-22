@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "target": "es2016",
+    "module": "commonjs",                             
+    "allowImportingTsExtensions": true,                     
+    "noEmit": true,           
+    "esModuleInterop": true,                      
+    "forceConsistentCasingInFileNames": false,
+    "strict": false,                  
+    "skipLibCheck": true,                       
+  },
+  "include": [
+    "src/resources/**/*.ts",
+  ],
+}
